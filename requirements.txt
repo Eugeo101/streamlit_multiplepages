@@ -63,8 +63,6 @@ imblearn==0.0
 importlib-resources==5.12.0
 impyute==0.0.8
 itsdangerous==2.1.2
-ivy-core==1.1.10
-jax==0.4.8
 Jinja2==3.1.2
 jsonpatch==1.32
 jsonpointer==2.3
